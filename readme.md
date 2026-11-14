@@ -5,9 +5,9 @@
 
 | Field | Detail |
 |---|---|
-| **Pentester Name (Cybersecurity Professional)** | **Emmanuel Bafi** |
-| **Program/Batch** | B082-Networkwalks |
-| **Date** | 17 August 2026 |
+| **Pentester Name (Student)** | **Abhinav De** |
+| **Program/Batch** | B084-Networkwalks |
+| **Date** | 14 November 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
 | **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
 | **Permission secured from client?** | Yes |
@@ -144,20 +144,20 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 # 8. Evidences Collected
 
-*Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
+*Screenshots collected as evidence during the activities (stored in the `kali_photos/` folder):*
 
-![whois output](screenshots/1_whois.png)
+![whois output](kali_photos/whois.png)
 
-![whatweb output](screenshots/2_whatweb.png)
+![whatweb output](kali_photos/whatweb.png)
 
-![nslookup output](screenshots/3_nslookup.png)
+![curl output](kali_photos/curl.png)
 
-![curl output](screenshots/4_curl.png)
+![wafw00f output](kali_photos/wafw00f.png)
 
-![wafw00f output](screenshots/5_wafw00f.png)
+![dnsrecon output](kali_photos/dnsrecon.png)
 
-![dnsrecon output](screenshots/7_zenmap.png)
+![Zenmap scan](kali_photos/zenmap.png)
 
-![Zenmap scan and topology](screenshots/8_zenmap2.png)
+![Zenmap topology](kali_photos/topology.png)
 
 -End-
