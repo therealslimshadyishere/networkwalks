@@ -25,7 +25,7 @@ Initial hash generation, format identification, or target hash capture.
 ![Target Hash Capture](w3/hash.png)
 
 #### Cracker Setup & Configuration (`w3/cracker1.png`)
-Initial setup and wordlist/rule configuration for the password cracker.
+Initial setup and wordlist for the password cracker.
 
 ![Cracker Setup](w3/cracker1.png)
 
